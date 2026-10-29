@@ -1,8 +1,8 @@
-Code Naming Guidlines
+Convenciones para nombrar el código
 
-- Variable names are written in snake_case and are descriptive of their purpose.
-- Constants are written in uppercase
-- Comments are used to explain important blocks of code.
-- Code is organized in a modular manner, with reusable code blocks imported where necessary.
-- No unnecessary wait functions that make the test run longer than it should.
-- Follow a naming convention for test titles that starts with `test_` and provides a clear description of the test scenario. We provide test titles in the brief.
+- Los nombres de las variables se escriben en formato `snake_case` y describen claramente su propósito.
+- Las constantes se escriben en mayúsculas.
+- Se utilizan comentarios para explicar bloques de código importantes.
+- El código se organiza de forma modular, importando bloques de código reutilizables cuando sea necesario.
+- No se utilizan funciones de espera innecesarias que prolonguen la ejecución de las pruebas.
+- Se sigue una convención para nombrar las pruebas: los nombres comienzan con `test_` y describen claramente el escenario que se está probando. Los títulos de las pruebas se proporcionan en las instrucciones de la tarea.
